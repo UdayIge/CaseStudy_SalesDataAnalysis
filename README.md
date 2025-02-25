@@ -22,6 +22,7 @@
 - **Time Series Analysis**: Evaluate sales trends over different time periods.
 
 ## *4. System Architecture*
+![tempsnip](https://github.com/user-attachments/assets/4fdd5468-989e-4fe0-9c9d-8613f90cb702)
 
 
 
