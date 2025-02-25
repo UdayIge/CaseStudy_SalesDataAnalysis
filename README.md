@@ -13,6 +13,7 @@
   - Managing inventory efficiently.
   - Extracting actionable insights from raw sales data.
 
+
 ## *3. Proposed Solution*
 - **Data Cleaning**: Handle missing values, duplicate records, and inconsistent data types.
 - **Descriptive Analysis**: Compute key metrics such as total sales, average order value, and category-wise sales.
@@ -23,6 +24,7 @@
 
 ## *4. System Architecture*
 
+![image](https://github.com/user-attachments/assets/999528e2-7544-49ab-abd7-2ab932ce5f7f)
 
 
 
